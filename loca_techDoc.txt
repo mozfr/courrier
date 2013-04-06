@@ -1,0 +1,23 @@
+Bonjour et bienvenue,
+
+Je te suggère de parcourir cette page
+http://wiki.mozfr.org/Contribuer_aux_traductions
+pour avoir un aperçu des possibilités ponctuelles ou permanentes de traduction petites et grandes. Tu pourras ainsi nous dire vers quoi tu souhaiterais t'orienter.
+
+Nous avons en particulier besoin en permanence de traducteurs/trices et rédacteurs/rédactrices compétent(e)s pour nourrir les pages de documentation technique de Mozilla Development Network 
+https://developer.mozilla.org/fr/
+Sur ces pages il est possible et souvent nécessaire entre autres de :
+* réviser (ortho/typo) les pages en français comme les pages en anglais
+* traduire des pages anglaises non encore en français
+* créer des contenus nouveaux nécessaires soit en français soit (mieux) directement en anglais
+
+Pour une première mise en route, voir la page http://wiki.mozfr.org/Contribuer_%C3%A0_MDN
+La personne ressource à contacter par mail pour des questions et davantage d'indications est Jérémie Patonnier
+http://wiki.mozfr.org/Utilisateur:Jeremie
+
+
+Pour être au courant des travaux en cours auxquels tu pourrais prendre part, le plus simple est de t'inscrire à la liste de diffusion
+http://mozfr.org/mailman/listinfo/moz-fr
+... et de nous rejoindre sur le canal de discussion #frenchmoz
+
+à bientôt !
