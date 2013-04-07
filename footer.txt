@@ -1,0 +1,18 @@
+Si vous voulez recevoir régulièrement des nouvelles de Mozilla,
+n’hésitez pas à vous inscrire à la lettre d’information mensuelle en
+vous rendant sur https://www.mozilla.org/fr/newsletter/
+
+Vous pouvez également vous abonner au flux RSS de
+http://planete.mozfr.org/ qui publie de nombreux billets écrits par la
+communauté francophone. Et bien sûr discuter avec nous sur les réseaux
+sociaux :
+ - Twitter : https://twitter.com/#!/mozilla_fr
+ - Diaspora : https://free-beer.ch/u/mozfr
+ - Facebook : https://www.facebook.com/frmozilla
+
+Si vous avez des questions plus précises, je vous encourage à vous
+inscrire sur la liste de coordination des Mozilliens francophones :
+http://mozfr.org/mailman/listinfo/moz-fr
+
+Enfin, pour discuter en direct, nous disposons de salons IRC. Toutes les
+infos pour nous y rejoindre ici : http://wiki.mozfr.org/IRC
