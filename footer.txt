@@ -12,7 +12,7 @@ sociaux :
 
 Si vous avez des questions plus précises, je vous encourage à vous
 inscrire sur la liste de coordination des Mozilliens francophones :
-http://mozfr.org/mailman/listinfo/moz-fr
+http://mozfr.org/liste
 
 Enfin, pour discuter en direct, nous disposons de salons IRC. Toutes les
 infos pour nous y rejoindre ici : http://wiki.mozfr.org/IRC
