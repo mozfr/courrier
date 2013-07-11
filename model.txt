@@ -1,0 +1,96 @@
+From: "XXXX de Mozilla Fr" <contact@mozfr.org>
+Subject: XXXXXX
+
+Bonjour XXXXXX et merci de votre intérêt pour Mozilla :)
+
+
+# QA
+
+L’équipe qualité de Mozilla organise très régulièrement des sessions de
+tests des nouvelles fonctionnalités, annoncées sur le site
+https://quality.mozilla.org/ Le plus simple pour être tenu au courant
+est de vous abonner à leur flux RSS ou de les suivre sur Facebook ou
+Twitter.
+
+L’essentiel de la communication autour des tests se fait en anglais,
+mais nous aimerions monter un groupe de testeurs francophones pour
+permettre aux gens qui ne sont pas à l’aise en anglais de participer.
+Est-ce que vous seriez intéressé ? Si c’est le cas, n’hésitez pas à vous
+inscrire à notre liste et à vous y présenter :
+http://mozfr.org/mailman/listinfo/moz-fr
+
+
+
+# Support
+
+XXXXXX - Réponse spécifique
+
+Plus généralement le site https://support.mozilla.org/fr/home contient
+de nombreuses informations pour résoudre la plupart des petits problèmes
+avec Firefox. Si vous n’y trouvez pas de réponse à vos questions, je
+vous conseille d'aller dans les forums d'assistance francophone
+http://forums.mozfr.org où de nombreux membre de la communauté
+s’entraident.
+
+
+
+# Documentation
+
+Vous êtes je crois intéressés par la documentation. La communauté
+Mozilla francophone est très impliquée dans divers projets de
+documentation, notamment l’enrichissement de la documentation disponible
+dans MDN. Si vous voulez nous aider, vous trouverez plus d’informations
+sur cette page : http://wiki.mozfr.org/Catégorie:Techno
+
+
+
+# Éducation
+
+Vous souhaitiez je crois avoir des informations sur les actions de
+Mozilla dans le domaine de l’éducation.
+
+Mozilla s’investit depuis plusieurs années dans l’éducation, avec
+plusieurs projets visant à apprendre aux utilisateurs comment fonctionne
+le Web et comment y produire des contenus, par exemple en codant. Je
+vous conseille de consulter par exemple le site https://webmaker.org
+(qui n’a malheureusement pas encore été traduit en français).
+
+Au niveau francophone, plusieurs initiatives sont en projet, mais il
+est encore trop tôt pour en parler.
+
+Nous travaillons également à documenter le Web Libre via la rédaction
+d’articles et des traductions de l’anglais vers le français sur le site
+https://developer.mozilla.org/fr/
+
+
+
+# Général
+
+Par ailleurs, pour être régulièrement tenu au courant de l’actualité des
+projets Mozilla, n’hésitez pas à vous inscrire à la lettre d’information
+mensuelle en vous rendant sur https://www.mozilla.org/fr/newsletter/
+
+Vous pouvez également vous abonner au flux RSS de
+http://planete.mozfr.org/ qui publie de nombreux billets écrits par la
+communauté francophone. Et bien sûr discuter avec nous sur les réseaux
+sociaux :
+ - Twitter : https://twitter.com/#!/mozilla_fr
+ - Diaspora : https://free-beer.ch/u/mozfr
+ - Facebook : https://www.facebook.com/frmozilla
+
+Si vous avez des questions plus précises, je vous encourage à vous
+inscrire sur la liste de coordination des Mozilliens francophones :
+http://mozfr.org/mailman/listinfo/moz-fr
+
+Enfin, pour discuter en direct, nous disposons de salons IRC. Toutes les
+infos pour nous y rejoindre ici : http://wiki.mozfr.org/IRC
+
+Et si vous voulez vous investir, vous trouverez sur notre Wiki une
+présentation de toutes les activités de la communauté francophone :
+http://wiki.mozfr.org/Accueil
+
+Encore une fois, merci de votre intérêt pour Mozilla. J’espère avoir
+bientôt de vos nouvelles.
+
+Clochix de la communauté Mozilla francophone
+
