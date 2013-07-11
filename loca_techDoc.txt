@@ -17,7 +17,7 @@ http://wiki.mozfr.org/Utilisateur:Jeremie
 
 
 Pour être au courant des travaux en cours auxquels tu pourrais prendre part, le plus simple est de t'inscrire à la liste de diffusion
-http://mozfr.org/mailman/listinfo/moz-fr
+http://mozfr.org/liste
 ... et de nous rejoindre sur le canal de discussion #frenchmoz
 
 à bientôt !
