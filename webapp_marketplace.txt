@@ -1,0 +1,20 @@
+Bonjour,
+Je suis (nom/prénom), Mozilla (reps, mozillien etc.) et (profession du web cas échéant)
+Je voudrais vous dire que votre application/jeu est (génial etc).
+J'ai vu que vous avez déjà publié votre application sur (Google Play, iTunes and Windows Store).
+J'ai testé votre application/jeu sur mon téléphone fonctionnant sur Firefox OS et elle fonctionne parfaitement.
+Je vous suggère d'envoyer votre application sur le Marketplace Firefox :
+https://marketplace.firefox.com/developers/
+C'est très facile, vous avez un fichier manifest à ajouter et vous pouvez conserver votre application hébergée ou la packager dans un fichier zip.
+
+Si vous avez besoin d'assistance, n'hésitez pas à m'écrire ou nous contacter sur IRC (irc.mozilla.org #devfr)
+Nous aimerions vraiment voir votre application sur le Marketplace !
+
+À ce propos, vous pouvez obtenir un téléphone gratuitement en vous inscrivant à ce programme :
+https://hacks.mozilla.org/2014/05/build-your-next-app-with-a-flame/
+
+Pour finir, les premiers téléphones sous Firefox OS sont sorti récemment en France et votre application serait le bienvenue.
+
+Cordialement,
+
+(nom/prénom)
