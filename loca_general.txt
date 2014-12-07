@@ -12,10 +12,6 @@ sur le Web en général, destinée aux développeurs web (JavaScript, HTML,
 CSS, etc.)
 (pour les projets ci-dessus, il suffit de créer un compte pour pouvoir
 commencer)
-- pour les logiciels (Firefox, Thunderbird, Firefox OS), le processus
-est un peu différent mais pas si compliqué que ça
-http://l10n.mozilla-community.org/webdashboard/?locale=fr (si tu as des questions, tu peux
-venir en parler sur IRC, voir ci-après)
 
 Je te suggère également de parcourir cette page
 http://wiki.mozfr.org/Contribuer_aux_traductions
