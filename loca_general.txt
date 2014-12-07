@@ -1,11 +1,28 @@
-Bonjour et bienvenue,
+Bonjour,
 
-Je te suggère de parcourir cette page
+Ravi de voir que la localisation t'intéresse, il y a plusieurs projets sur lesquels la traduction/localisation
+intervient à Mozilla :
+- les interfaces web des outils/site : ça se passe sur "Verbatim" :
+https://localize.mozilla.org/fr/
+- SUMO (https://support.mozilla.org) où il s'agit de traduire et de
+maintenir les articles destinés à aider les utilisateurs des produits
+Mozilla
+- MDN (https://developer.mozilla.org ) qui contient de la documentation
+sur le Web en général, destinée aux développeurs web (JavaScript, HTML,
+CSS, etc.)
+(pour les projets ci-dessus, il suffit de créer un compte pour pouvoir
+commencer)
+
+Je te suggère également de parcourir cette page
 http://wiki.mozfr.org/Contribuer_aux_traductions
 pour avoir un aperçu des possibilités ponctuelles ou permanentes de traduction petites et grandes. Tu pourras ainsi nous dire vers quoi tu souhaiterais t'orienter.
 
-Pour être au courant des travaux en cours auxquels tu pourrais prendre part, le plus simple est de t'inscrire à la liste de diffusion
-http://mozfr.org/liste
-... et de nous rejoindre sur le canal de discussion #frenchmoz
+N'hésite pas à te présenter et à poser des questions
+sur IRC sur le canal #frenchmoz
+(http://wiki.mozfr.org/IRC_et_la_communaut%C3%A9_francophone ).
 
-à bientôt !
+Tu peux aussi t'inscrire à la liste de diffusion (mailing list) de MozFr
+:http://mozfr.org/mailman/listinfo/moz-fr pour voir passer des bugs de
+traductions (newsletters, traductions participatives...) et des discussions. 
+
+À bientôt !
