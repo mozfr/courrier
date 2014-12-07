@@ -1,9 +1,23 @@
 Bonjour,
 
-Si vous voulez contribuer aux tests, vous avez le site http://quality.mozilla.org (en anglais)
+Ravi de voir votre intérêt pour les tests et l'assurance qualité (QA) pour les projets de Mozilla.
+Pour aider sur ces points, vous pouvez d'ores et déjà télécharger et utiliser une version « Nightly » de Firefox. Cette version dispose des toutes dernières fonctionnalités qui doivent être testées afin de fournir aux utilisateurs de Firefox la meilleure des expériences possible !
+Vous pouvez utiliser une version Nightly traduite en français pour également tester la qualité de la traduction, il suffit de télécharger le fichier correspondant à votre système depuis : https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-central-l10n/
+Firefox vous proposera de répondre périodiquement à des questions sur la qualité mais aussi de rapporter les bogues trouvés.
 
-Vous pouvez aussi télécharger la version Nightly de Firefox sur http://nightly.mozilla.org et Firefox vous proposera de répondre périodiquement à des questions sur la qualité mais aussi de rapporter les bogues trouvés.
+Pour d'autres idées sur comment contribuer à la QA, je vous invite à consulter https://quality.mozilla.org/ (en anglais) et plus particulièrement https://quality.mozilla.org/docs/misc/how-can-i-help-test/
 
+Il est naturel d'avoir des questions quand on commence à contribuer, je vous invite donc à venir poser ces questions et à vous présenter sur :
+- IRC (http://wiki.mozfr.org/IRC_et_la_communaut%C3%A9_francophone) sur le canal #frenchmoz
+- la liste de diffusion (mailing list) de la communauté francophone : http://mozfr.org/mailman/listinfo/moz-fr
+
+Pour la QA, les canaux (anglophones) sont :
+- IRC : le canal QA
+- la liste de diffusion : https://lists.mozilla.org/listinfo/dev-quality
+
+Si jamais vous avez besoin de plus d'informations, n'hésitez pas à revenir vers moi !
+
+En espérant à bientôt !
 Cordialement,
 
 --
