@@ -1,0 +1,12 @@
+Bonjour,
+
+Merci de votre message !
+Pour aider les personnes qui utilisent les produits de Mozilla, un site principal : SUMO https://support.mozilla.org
+Vous pouvez contribuer de diverses manières, elles sont décrites ici :
+https://support.mozilla.org/fr/get-involved
+
+Si vous avez des questions, n'hésitez pas à venir vous présenter/poser vos questions sur :
+- IRC (http://wiki.mozfr.org/IRC_et_la_communaut%C3%A9_francophone ) sur le canal #frenchmoz
+- la liste de diffusion (mailing list) http://mozfr.org/mailman/listinfo/moz-fr
+
+À bientôt !
