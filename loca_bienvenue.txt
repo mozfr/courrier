@@ -1,0 +1,13 @@
+Bonjour [name],
+
+Tu as l’air motivé(e) pour nous aider, ça fait plaisir à voir :)
+Pour la traduction, tu as frappé à la bonne porte.
+
+La traduction en français chez Mozilla (toujours à partir de l’anglais) est assurée par un groupe de bénévoles (certains sont des professionnels de la traduction, d’autres sont purement amateurs.
+
+Voici un aperçu de ce que nous traduisons : https://www.theochevalier.fr/index.php?page=6&article=12&lang=en Comme tu peux le constater, il y a à la fois des traductions techniques comme des traductions totalement orientées marketing : le contenu de mozilla.org, ou encore les « snippets » qui s’affichent sur la page d’accueil de Firefox en font partie. Tu as probablement vu celui pour l’appel aux dons, par exemple. (Merci à toi, d’ailleurs !)
+Pour tout ce contenu, ton profil est particulièrement adapté.
+
+Donc si tu veux nous aider à proposer du contenu de très bonne qualité et défendre l’image de marque de Mozilla, tu peux venir en discuter avec nous en direct sur IRC : http://chat.mibbit.com/?server=irc.mozilla.org&channel=%23l10n-fr On sera ravis de t’en dire plus, n’hésite pas à passer dire bonjour.
+
+À bientôt,
